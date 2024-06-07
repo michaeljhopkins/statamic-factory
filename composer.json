@@ -20,7 +20,7 @@
         "fakerphp/faker": "*",
         "laravel/prompts": "*",
         "statamic/cms": "^5.0",
-        "stillat/primitives": "*",
+        "stillat/primitives": "*"
     },
     "require-dev": {
         "orchestra/testbench": "*",
