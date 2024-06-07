@@ -16,14 +16,14 @@
         }
     ],
     "require": {
-        "php": "^8.1",
-        "fakerphp/faker": "^1.23.0",
-        "laravel/prompts": "^0.1.17",
+        "php": "*",
+        "fakerphp/faker": "*",
+        "laravel/prompts": "*",
         "statamic/cms": "^5.0",
-        "stillat/primitives": "^1.4.1"
+        "stillat/primitives": "*",
     },
     "require-dev": {
-        "orchestra/testbench": "^8.0|^9.0",
+        "orchestra/testbench": "*",
         "phpunit/phpunit": "^10.0"
     },
     "autoload": {
